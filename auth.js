@@ -5,5 +5,5 @@ function auth(login, pass){
     if(login === 'login' || pass === 'password')
         return "you were logged in";
     else
-        return "login is incorrect!!!!";
+        return "login is correct";
 }
